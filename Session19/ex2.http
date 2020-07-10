@@ -1,0 +1,5 @@
+GET /usa/florida.php HTTP/2.0
+Connection: Keep-Alive
+Cookie: city=east-coast-usa
+Host: www.Webworldmaps.com
+Referer: http://www.Webworldmaps.com/
